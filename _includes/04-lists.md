@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+My favourite things are:
+1. IT 💻
+2. Reading 📘
+3. Hiking 🌲
+4. Running 🫀
+5. Eating 🥘
